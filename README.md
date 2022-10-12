@@ -26,8 +26,10 @@
 > Target cluster datasets is about a set of patient, all of whom suffered from the same illness. Druing their course of treament, each patient responed to one of 5 medications inlcude drug A, B, C, X, Y.
 
 **Reference:**  
-Dateset:<a href="https://raw.githubusercontent.com/bdfd/Project04_Avacado_Price_Analysis-Kaggle/main/dataset/Avocado.csv">Dataset.csv</a>  
-Demo:<a href="https://github.com/bdfd/Project_04_Done_Avacado_Price/blob/main/Avocado_Price_Sale_Analysis.ipynb">Jupyter Notebook/Colab Link</a>
+Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project04_Drug_Prediction/main/dataset/drug200.csv">Dataset.csv</a>  
+Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project04_Drug_Prediction/main/display%20demo/train.csv">Train.csv</a>  
+Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project04_Drug_Prediction/main/display%20demo/test.csv">Test.csv</a>  
+Demo:<a href="https://github.com/bdfd/Portfolio_Project04_Drug_Prediction/blob/main/Drug_Prediction.ipynb">Jupyter Notebook/Colab Link</a>
 
 <br>
 
