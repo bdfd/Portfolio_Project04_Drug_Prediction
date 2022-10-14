@@ -12,7 +12,7 @@
 
 **Tools:** Jupyter / JupyterLab, GitHub
 
-**Algorithm:** DecisionTree Classification
+**Algorithm:** Classification
 
 **Purpose:** Data Cleaning, Apply Algorithm
 
