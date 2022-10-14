@@ -12,13 +12,13 @@
 
 **Tools:** Jupyter / JupyterLab, GitHub
 
-**Algorithm:** Classification
+**Algorithm Category:** Classification
 
 **Purpose:** Data Cleaning, Apply Algorithm
 
-**Algorithm:** DecisionTree Classification
+**Algorithm:** Decision Tree
 
-**Libraries:** Pandas, NumPy, sklearn
+**Libraries:** Pandas, NumPy, Matplotlib, Scikit-Learn
 
 **Projects:** Drug Prediction
 
